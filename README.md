@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Barath</h1>
 <h3 align="center">I love Automating Stuff</h3>
 
+<p align="center"> 
+<a href="https://www.linkedin.com/in/barathkumar-m/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Python_Barath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barathkumar-m/"></a>
+<a href="https://twitter.com/barath_Kumar_m"><img alt="Twitter" src="https://img.shields.io/badge/-Python_Barath-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/barath_Kumar_m"></a>
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pythonbarath&label=Profile%20views&color=e100ff&style=flat-square" alt="pythonbarath" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pythonbarath" alt="pythonbarath" /></a> </p>
+
+
 
 - 📫 How to reach me **office.barath@gmail.com**
 
