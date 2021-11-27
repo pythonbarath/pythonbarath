@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barath</h1>
 <h3 align="center">I love Automating Stuff</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techtanic&label=Profile%20views&color=e100ff&style=flat-square" alt="techtanic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pythonbarath&label=Profile%20views&color=e100ff&style=flat-square" alt="pythonbarath" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pythonbarath" alt="pythonbarath" /></a> </p>
 
